@@ -1,0 +1,14 @@
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\bin\Debug\net8.0\c#CurrencyConverter.exe
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\bin\Debug\net8.0\c#CurrencyConverter.deps.json
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\bin\Debug\net8.0\c#CurrencyConverter.runtimeconfig.json
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\bin\Debug\net8.0\c#CurrencyConverter.dll
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\bin\Debug\net8.0\c#CurrencyConverter.pdb
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.AssemblyInfo.cs
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.dll
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\refint\c#CurrencyConverter.dll
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.pdb
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\c#CurrencyConverter.genruntimeconfig.cache
+C:\Users\Onur Aydemir\Desktop\projectCurrencyConventer\c#CurrencyConverter\obj\Debug\net8.0\ref\c#CurrencyConverter.dll
