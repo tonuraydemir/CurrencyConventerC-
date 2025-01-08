@@ -28,4 +28,4 @@ try:
 except ValueError:
     print("Invalid amount. Please enter a valid number.")
 
-print("Logged Out...")
+print("Logged Out... Press Enter to proceed to the next operation.")
